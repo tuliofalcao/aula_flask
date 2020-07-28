@@ -82,7 +82,7 @@ parso==0.5.2
 passlib==1.7.2
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==7.0.0
+Pillow>=7.1.0
 pipsi==0.9
 progressbar==2.5
 prompt-toolkit==3.0.5
